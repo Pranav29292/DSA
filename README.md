@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pranav29292/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pranav29292/DSA/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Pranav29292/DSA/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pranav29292/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pranav29292/DSA/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -38,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Pranav29292/DSA/tree/master/0567-permutation-in-string) |
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pranav29292/DSA/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pranav29292/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pranav29292/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
