@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Pranav29292/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Pranav29292/DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Pranav29292/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Pranav29292/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pranav29292/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Pranav29292/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pranav29292/DSA/tree/master/0242-valid-anagram) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Pranav29292/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pranav29292/DSA/tree/master/0136-single-number) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Pranav29292/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
