@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pranav29292/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Pranav29292/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Pranav29292/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pranav29292/DSA/tree/master/0125-valid-palindrome) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pranav29292/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Pranav29292/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Pranav29292/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Pranav29292/DSA/tree/master/0136-single-number) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranav29292/DSA/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Pranav29292/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
